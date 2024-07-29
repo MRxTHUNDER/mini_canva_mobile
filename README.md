@@ -1,16 +1,11 @@
-# canva_mini
+# canva_mini_mobile
 
-A new Flutter project.
+![Screenshot_1722289634](https://github.com/user-attachments/assets/ce37d6ed-2585-42a3-9eae-4cb33c8073f4)
 
-## Getting Started
+## Features and Functionality
+The Features includes Add Text, Font Size and Font Color.
 
-This project is a starting point for a Flutter application.
+It also have Undo function.
 
-A few resources to get you started if this is your first Flutter project:
+The provided workspace can be used freely as tthe users need.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
